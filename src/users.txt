@@ -1,0 +1,4 @@
+A011,Admin,admin,admin123,Admin
+B001,Dr Mahmoud,mahmoud,Mahmoud158,Doctor
+C004,Ahmed,ahmed,Ahmed345,Patient
+F083,Dr Seif,seif,Seif548,Doctor
